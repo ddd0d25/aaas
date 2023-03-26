@@ -1,0 +1,20 @@
+    var22 = (-512 - arg17) - arg1
+            var23 = (var19 ^ arg11) ^ var20
+            var24 = var20 & var22 - -946 & var22
+            var25 = arg1 & (arg17 | arg1)
+            var26 = (var22 ^ var16 & arg11) + var24
+            var27 = arg17 | var22 ^ (arg17 & var23)
+            var28 = var20 - var16
+            var29 = arg1 - 2142074851
+            var30 = -131672883 + var16
+            var31 = var24 | (var19 & var29 - var27)
+            var32 = (arg18 ^ var27) & 535853289
+            var33 = var31 & 393
+            var34 = arg1 - var23
+            var35 = arg2 - (var30 & (-1073395248 - var26))
+            var36 = var33 ^ var24 ^ var24
+            var37 = arg18 | var23
+            var38 = var20 + var27 - var33 & var32
+            var39 = var28 + (var34 | var34) | 1283314865
+            result = 2142722598 & (var29 & -549) ^ -800 - var25
+            return result
